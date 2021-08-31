@@ -1,0 +1,45 @@
+body{
+	background-color :rgb(243, 96, 120);
+    font-style:Italic;
+    font-size:35px;
+}
+h1{
+	color:white;
+    text-align: center;
+	font-style:Italic;
+	background-color:rgb(112, 112, 112);
+    font-size:35px;
+}
+table,tr,td{
+	color:blue;
+	border: 2px solid blue;
+	background-color:white;
+    font-size:20px;
+}
+th{
+	color:white;
+	align: center;
+	border: 2px solid blue;
+	background-color:blue;
+	font-size:25px;
+	
+}
+button{
+	background-color:blue;
+	color:black;
+    font-size:25px;
+	font-style:Italic;
+    
+}
+.center{
+	margin:auto;
+    width:50%;
+    padding:10px;
+
+    
+}
+.center1{
+	margin:auto;
+	font-size:25px;
+}
+
